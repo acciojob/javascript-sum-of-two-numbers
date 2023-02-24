@@ -1,3 +1,11 @@
-# Acciojob Assignment Solution Template Repo
+Write a JavaScript program that asks the user to input two numbers using `prompt()`, `adds` the `two numbers`, and then displays the `sum` to the user.
 
-# Instructions 
+Acceptance Criteria:
+
+- When the user inputs two numerical values, the program should add them and display the correct sum to the user.
+
+- When the user inputs non-numerical values, the program should display an error message.
+
+- When the user inputs only one numerical value, the program should display an error message.
+
+- The test should pass if the program meets all acceptance criteria.
