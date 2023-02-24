@@ -1,4 +1,6 @@
-Write a JavaScript program that asks the user to input two numbers using `prompt()`, `adds` the `two numbers`, and then displays the `sum` to the user.
+# JavaScript - Sum Of Two Numbers
+
+### Write a JavaScript program that asks the user to input two numbers using `prompt()`, `adds` the `two numbers`, and then displays the `sum` to the user.
 
 Acceptance Criteria:
 
